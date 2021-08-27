@@ -45,7 +45,7 @@
     "npm": ">=4.x"
   },
   "dependencies": {
-    "deepmerge-json": "^1.1.0",
+    "deepmerge-json": "^1.2.0",
     "gluegun": "^4.5.0"
   },
   "devDependencies": {
